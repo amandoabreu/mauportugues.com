@@ -1,0 +1,52 @@
+languageCode = "pt-pt"
+title = "Mau Portugues"
+baseurl = "http://mauportugues.com/"
+theme = "hugo-creative-portfolio-theme"
+googleAnalytics = "UA-31605203-1"
+disqusShortName = "mauportugues-com"
+[permalinks]
+  portfolio = ":section/:slug/"
+  noticies = ":section/:slug"
+
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "blue"
+  description = "Um site com dank memes, e de vez em quando algo sério."
+  copyright = "&copy;2012-2017 Mau Portugues"
+  sidebarAbout = [
+    "Mais um site com memes e cenas engraçadas.",
+    "Noticias sobre o país.",
+    "Passatempos e concursos",
+    "Façam like no Facebook, se não gostarem devolvemos o vosso dinheiro."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "jsrs755@gmail.com"
+
+  # Nav links in the side bar
+  #[[params.navlinks]]
+  #name = "Home"
+  #url = ""
+
+  #[[params.navlinks]]
+  #name = "About"
+  #url = "about/"
+
+  #[[params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
+
+[params.social]
+	facebook = "https://www.facebook.com/mauportugues/"
