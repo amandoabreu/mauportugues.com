@@ -1,6 +1,8 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="/">{{ .Site.Title }}</a></h1>
+    <!--<h1 class="sidebar-heading"><a href="/">{{ .Site.Title }}</a></h1>-->
+    <a href="/"><div class="mpt-logo">
+      <span class="mpt-logo__mau">Mau</span> <span class="mpt-logo__pt">Português</span></div></a>
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
@@ -10,8 +12,7 @@
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
       {{ end }}
     </ul>
-    <div class="fb-like" data-href="https://www.facebook.com/mauportugues/" data-width="200" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-    {{ partial "socialButtonsInSideBar.html" . }}
+    {{ partial "fblike.html" . }}
 
     <div class="copyright">
       <p class="credit">

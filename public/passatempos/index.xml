@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passatempos on Mau Português</title>
+    <link>https://mauportugues.com/passatempos/index.xml</link>
+    <description>Recent content in Passatempos on Mau Português</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>&amp;copy;2012-2017 Mau Português</copyright>
+    <lastBuildDate>Sat, 18 Feb 2017 12:58:29 +0100</lastBuildDate>
+    <atom:link href="https://mauportugues.com/passatempos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>O quiz mais difícil sobre factos de Portugal e Portugueses</title>
+      <link>https://mauportugues.com/passatempos/quiz-mais-dificil-sobre-portugal/</link>
+      <pubDate>Sat, 18 Feb 2017 12:58:29 +0100</pubDate>
+      
+      <guid>https://mauportugues.com/passatempos/quiz-mais-dificil-sobre-portugal/</guid>
+      <description>&lt;p&gt;Testa os teus conhecimentos
+
+&lt;div id=&#39;container&#39;&gt;
+    &lt;br/&gt;
+    &lt;div id=&#39;quiz&#39;&gt;&lt;/div&gt;
+    &lt;div class=&#39;button&#39; id=&#39;next&#39;&gt;&lt;a href=&#39;#&#39;&gt;Próxima&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&#39;button&#39; id=&#39;prev&#39;&gt;&lt;a href=&#39;#&#39;&gt;Anterior&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&#39;button&#39; id=&#39;start&#39;&gt; &lt;a href=&#39;#&#39;&gt;Recomeçar&lt;/a&gt;&lt;/div&gt;
+    &lt;!-- &lt;button class=&#39;&#39; id=&#39;next&#39;&gt;Próxima&lt;/a&gt;&lt;/button&gt;
+    &lt;button class=&#39;&#39; id=&#39;prev&#39;&gt;Anterior&lt;/a&gt;&lt;/button&gt;
+    &lt;button class=&#39;&#39; id=&#39;start&#39;&gt; Recomeçar&lt;/a&gt;&lt;/button&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&#34;button btn btn--big-cta&#34; style=&#34;display:none&#34; id=&#39;share-result&#39;&gt;Partilhar o meu resultado&lt;/div&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,8 +1,8 @@
 +++
-title = "9 Erros Ortográficos Em Que Não Vais Acreditar"
+title = "Pára de falar sobre as muitas horas que trabalhas, não estás a ajudar ninguém"
 date = "2017-02-17T20:58:29+01:00"
-draft = false
-image = "/img/curvo.jpg"
+draft = true
+image = "/img/clock.jpg"
 +++
 A terceira é cruel demais!
 <!--more-->
@@ -23,3 +23,5 @@ A terceira é cruel demais!
 {{< figure src="/img/cadeirarodas.jpg" title="8) Cadeira de rodas, rodas de cadeira, vai dar ao mesmo" >}}
 
 {{< figure src="/img/nozes.jpg" title="9) Para aquelas nozes difíceis de quebrar" >}}
+
+

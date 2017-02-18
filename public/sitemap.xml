@@ -2,30 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mauportugues.com/noticias/first/</loc>
+    <loc>https://mauportugues.com/noticias/o-planeta-terra-tem-um-novo-continente-chamado-zel%C3%A2ndia</loc>
+    <lastmod>2017-02-18T12:58:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauportugues.com/passatempos/quiz-mais-dificil-sobre-portugal/</loc>
+    <lastmod>2017-02-18T12:58:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauportugues.com/humor/9-erros-ortograficos-em-que-nao-vais-acreditar/</loc>
     <lastmod>2017-02-17T20:58:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mauportugues.com/post/firspost/</loc>
+    <loc>https://mauportugues.com/humor/</loc>
     <lastmod>2017-02-17T20:58:29+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mauportugues.com/</loc>
-    <lastmod>2017-02-17T20:58:29+01:00</lastmod>
+    <lastmod>2017-02-18T12:58:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mauportugues.com/noticias/</loc>
-    <lastmod>2017-02-17T20:58:29+01:00</lastmod>
+    <lastmod>2017-02-18T12:58:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauportugues.com/post/</loc>
-    <lastmod>2017-02-17T20:58:29+01:00</lastmod>
+    <loc>https://mauportugues.com/passatempos/</loc>
+    <lastmod>2017-02-18T12:58:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   

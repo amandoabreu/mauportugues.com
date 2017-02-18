@@ -6,7 +6,7 @@ googleAnalytics = "UA-31605203-1"
 disqusShortName = "mauportugues-com"
 [permalinks]
   portfolio = ":section/:slug/"
-  noticies = ":section/:slug"
+  noticias = ":section/:slug"
 
 
 [params]
@@ -16,8 +16,8 @@ disqusShortName = "mauportugues-com"
   description = "Um site com dank memes, e de vez em quando algo sério."
   copyright = "&copy;2012-2017 Mau Português"
   sidebarAbout = [
-    "Mais um site com memes e cenas engraçadas.",
-    "Noticias sobre o país.",
+    "Um site que goza com diversos aspectos do país e das pessoas que nele vivem",
+    "Noticias sobre o país e o mundo.",
     "Passatempos e concursos",
     "Façam like no Facebook, se não gostarem devolvemos o vosso dinheiro."
   ]
@@ -36,13 +36,21 @@ disqusShortName = "mauportugues-com"
   email = "jsrs755@gmail.com"
 
   # Nav links in the side bar
+  [[params.navlinks]]
+      name = "Voltar ao início"
+      url = ""
+
+[[params.navlinks]]
+  name = "Humor"
+  url = "humor/"
+
 [[params.navlinks]]
   name = "Noticias"
-  url = "#"
+  url = "noticias/"
 
   #[[params.navlinks]]
-  #name = "About"
-  #url = "about/"
+   # name = "Crónicas"
+    #url = "cronicas/"
 
   #[[params.navlinks]]
   #name = "Get in touch"
