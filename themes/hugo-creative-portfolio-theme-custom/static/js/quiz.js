@@ -2,6 +2,11 @@
     var numCorrect = 0;
     var questions = [
         {
+            question: "Que cidade foi, durante alguns anos, a capital do Reino de Portugal?",
+            choices: ["Díli", "Faro", "Rio de Janeiro", "Luanda"],
+            correctAnswer: 2
+        },
+        {
             question: "Quantos Portugueses estiveram envolvidos no massacre de 84 Mil Indianos na Batalha de Cochim em 1504?",
             choices: ["251", "140", "10 Mil", "120 Mil", "1594"],
             correctAnswer: 1
@@ -15,11 +20,6 @@
             question: "Qual o produto mais exportado de Portugal?",
             choices: ["Veículos", "Óleo", "Sapatos", "Plástico", "Maquinaria", "Papel"],
             correctAnswer: 0
-        },
-        {
-            question: "Que cidade foi, durante alguns anos, a capital do Reino de Portugal?",
-            choices: ["Díli", "Faro", "Rio de Janeiro", "Luanda"],
-            correctAnswer: 2
         },
         {
             question: "Qual a Nacionalidade do ator Herman José?",
