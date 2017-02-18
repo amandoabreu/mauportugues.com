@@ -1,7 +1,7 @@
 languageCode = "pt-pt"
 title = "Mau Portugues"
-baseurl = "http://mauportugues.com/"
-theme = "hugo-creative-portfolio-theme"
+baseurl = "https://mauportugues.com/"
+theme = "hugo-creative-portfolio-theme-custom"
 googleAnalytics = "UA-31605203-1"
 disqusShortName = "mauportugues-com"
 [permalinks]
