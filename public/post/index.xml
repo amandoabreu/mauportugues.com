@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mau Portugues</title>
+    <title>Posts on Mau Português</title>
     <link>https://mauportugues.com/post/index.xml</link>
-    <description>Recent content in Posts on Mau Portugues</description>
+    <description>Recent content in Posts on Mau Português</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <copyright>&amp;copy;2012-2017 Mau Portugues</copyright>
+    <copyright>&amp;copy;2012-2017 Mau Português</copyright>
     <lastBuildDate>Fri, 17 Feb 2017 20:58:29 +0100</lastBuildDate>
     <atom:link href="https://mauportugues.com/post/index.xml" rel="self" type="application/rss+xml" />
     
